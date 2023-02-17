@@ -1,13 +1,17 @@
-#include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
-/** main- A program that detects + - of a no
+#include <time.h>
+/* more headera goes there */
+#include <stdio.h>
+/* betty style doc for function main goes there */
+/**
+ * main- main function
  * Return: returns (0)
  */
 
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
