@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /** main- A program that detects + - of a no
  * Return: returns (0)
  */
