@@ -1,16 +1,19 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main- main fuction
+ * main- main function
  * Return: returns (0)
  */
 
 int main(void)
 {
-	char i[] = "_putchar";
-	int x;
-
-	for (x = 0;  i[x] != '\n' && i[x] != '\0'; x++)
-	putchar(i[x]);
-	putchar('\n');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
