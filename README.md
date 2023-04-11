@@ -1,1 +1,1 @@
-starting a low level lang
+structures and type definitiont(typedef)
