@@ -1,1 +1,1 @@
-structures and type definitiont(typedef)
+A little fun with bit manipulation
