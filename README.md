@@ -1,1 +1,1 @@
-A little fun with bit manipulation
+All C project and tasks are in this directory
